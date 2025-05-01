@@ -1,0 +1,1 @@
+Booking Chatbot is an AI-powered React application integrated with the Travelminds Travel Agency website. It assists users with travel inquiries, booking assistance, and provides interactive support through a modern chat interface.

@@ -11,7 +11,10 @@ node_modules
 dist
 dist-ssr
 *.local
-.bolt
+
+# Ignore Bolt directory
+.bolt/
+
 
 # Editor directories and files
 .vscode/*
